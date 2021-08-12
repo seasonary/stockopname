@@ -1,4 +1,5 @@
 benjawa commit :
 - konsisten belajar web seminggu 3x
 - akan menyelesaikan 3 aplikasi web tahun ini
-- membuat aplikasi chat android kantor 
+- membuat aplikasi chat android kantor
+- membesarkan kantor dengan layanan website yang dinamis
