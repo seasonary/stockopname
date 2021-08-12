@@ -1,0 +1,2 @@
+# stockopname
+repository untuk stockopname 
